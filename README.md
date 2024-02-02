@@ -6,7 +6,8 @@
 ###
 
 <h2 align="left">About me</h2>
-My name is Daniel, I'm a 23 years old and I love to create websites and edit videos.</p>
+I'm Daniel, a 23-year-old student with a passion for creating websites and editing videos.</p>
+
 
 ###
 
