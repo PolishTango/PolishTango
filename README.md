@@ -11,7 +11,7 @@ I'm Daniel, a 23-year-old student with a passion for creating websites and editi
 
 ###
 
-<p align="left">✨ I'm currently learning React 🎯 <br> </p>
+<p align="left">✨ I'm currently learning React and Source Filmmaker in a free time 🎯 <br> </p>
 
 ###
 
